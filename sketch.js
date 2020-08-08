@@ -48,7 +48,7 @@ p2 = loadImage("Images/PADDLE2.png")
 Restart = loadImage("Images/restartButton.png")
 Play =  loadImage("Images/playButton.png")
 Ball = loadImage("Images/SilverBall.png")
-Ufo = loadImage("Images/UFO.png")
+Ufo = loadImage("Images/UfO.png")
 GameOver = loadImage("Images/gameOver.png")
 Back = loadImage("Images/BackGroundChange.png")
 }
